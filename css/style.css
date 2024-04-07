@@ -1090,7 +1090,7 @@ a:hover {
   height: 80vh;
   border-radius: 0px 0px 0 15%;
   opacity: 1;
-  z-index: 3;
+  z-index: 1003;
   background: white;
   animation: 0.7s menuAnimation forwards;
   display: flex;
