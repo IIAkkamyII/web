@@ -805,7 +805,7 @@ template {
 /* Slide styles end */
 :root {
   --accordion-list-offset: 30px;
-  --accordion-ico: url("../../img/arrow.svg");
+  --accordion-ico: url("../img/arrow.svg");
   --ico-rotate: rotate(90deg);
   --accordion-rotate-time: .5s;
   --accordion-bg: white;
