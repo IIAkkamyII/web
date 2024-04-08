@@ -1065,7 +1065,7 @@ a:hover {
   width: 32px;
   cursor: pointer;
   position: relative;
-  z-index: 4;
+  z-index: 64;
 }
 .header__burger--line {
   width: 100%;
